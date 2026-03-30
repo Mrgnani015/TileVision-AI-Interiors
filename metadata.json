@@ -1,0 +1,5 @@
+{
+  "name": "ram updates",
+  "description": "Upload a room photo and instantly preview different flooring and wall tile options using Gemini 2.5 Flash Image generation.",
+  "requestFramePermissions": []
+}
